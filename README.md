@@ -8,3 +8,5 @@ The code is very particular as I used absolute file paths for everything because
 I have made two versions
 1. the unedited code. The code used for a raspberry pi to make an led lightup.
 2. Just the logging into the facebook page function and returning if a message is there.
+
+got the phantomjs for armv6 from https://github.com/spfaffly/phantomjs-linux-armv6l
