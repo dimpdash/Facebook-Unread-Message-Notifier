@@ -1,0 +1,23 @@
+Open with WordPad and Write everything below the request
+Rename me to Settings
+
+Facebook Email:
+########
+
+Facebook Password:
+########
+
+Network SSID (name of wifi):
+########
+
+Wifi Password:
+########
+
+Sleep at night to turn light off: (enter True or False) (do not enter false or true)
+True
+
+Begin:(24 hour format eg. 21:30 and the timezone is UTC so add 10 hours if in in cairns so 21:30 here is 11:30 there)
+11:30
+
+End:(this is 6:00 EST)
+20:00
